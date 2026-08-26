@@ -1,12 +1,4 @@
 
-<h1 align="center">Hi 👋, I'm Angelina</h1>
-<h3 align="center">I’m a beginner Machine Learning Engineer passionate about data, algorithms, and building intelligent systems.</h3>
-
-- 🔭 I’m currently working on **my thesis project, where I develop a model to predict whether a customer of a food delivery service will place an order in the next few days.**
-
-- I’m also completing **an internship focused on demand forecasting and vacation prediction**
-
-- 💬 I run a blog **where I document my journey from management to machine learning — sharing lessons learned, challenges, study strategies, and insights from real projects.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
